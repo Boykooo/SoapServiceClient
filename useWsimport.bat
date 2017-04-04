@@ -1,0 +1,1 @@
+"C:\Program Files\Java\jdk1.8.0_121\bin\wsimport.exe" -keep "http://91.202.27.32:8080/web/UserSoap?wsdl"
